@@ -1,0 +1,32 @@
+/* src/Navbar.css */
+.navbar-sider {
+    height: 100vh;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .navbar-header {
+    padding: 16px;
+    text-align: center;
+  }
+  
+  .navbar-title {
+    color: #fff !important;
+  }
+  
+  .navbar-menu {
+    flex-grow: 1;
+  }
+  
+  .navbar-footer {
+    padding: 16px;
+  }
+  
+  .navbar-user {
+    text-align: center;
+    color: #fff;
+    margin-top: 8px;
+  }
+  

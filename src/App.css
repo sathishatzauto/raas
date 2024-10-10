@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+/* src/App.css */
+.app-layout {
+  margin-left: 250px;
+  min-height: 100vh;
+}
+
+.app-content {
+  padding: 24px;
+  background: #1f1f1f;
+}

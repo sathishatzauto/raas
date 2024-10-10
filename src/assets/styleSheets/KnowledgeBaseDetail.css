@@ -1,0 +1,19 @@
+/* src/assets/styleSheets/KnowledgeBaseDetail.css */
+
+.knowledge-base-detail {
+    padding: 24px;
+    background: #fff;
+  }
+  
+  .ant-tabs-left > .ant-tabs-content-holder {
+    margin-left: 200px; /* Adjust based on your needs */
+  }
+  
+  .ant-tabs-tab {
+    padding: 8px 16px;
+  }
+  
+  .ant-tabs-tab-active {
+    background-color: #f0f0f0;
+  }
+  

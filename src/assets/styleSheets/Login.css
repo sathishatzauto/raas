@@ -1,0 +1,10 @@
+/* src/Login.css */
+.login-container {
+    max-width: 300px;
+    margin: 100px auto;
+  }
+  
+  .login-form {
+    width: 100%;
+  }
+  

@@ -1,0 +1,64 @@
+/* Light Theme for Modal */
+.ant-modal-content {
+  background-color: #fff !important;
+  color: #333 !important;
+}
+
+.ant-modal-header {
+  background-color: #f0f0f0 !important;
+  color: #333 !important;
+}
+
+.ant-modal-title {
+  color: #333 !important;
+}
+
+/* Custom style for the Ant Design select dropdown */
+.ant-select-dropdown {
+  background-color: #fff; /* Light background */
+  color: #333; /* Dark text color */
+  border: 1px solid #ccc; /* Light border */
+}
+
+/* Custom style for the select items */
+.ant-select-item {
+  color: #333 !important; /* Dark text for each item */
+}
+
+.ant-select-item-option-selected {
+  background-color: #e6f7ff !important; /* Light blue background for selected items */
+}
+
+.ant-select-item-option-active {
+  background-color: #bae7ff !important; /* Lighter blue background for active (hovered) item */
+  color: #333 !important; /* Dark text for active (hovered) item */
+}
+
+/* Modal Close Icon */
+.ant-modal-close-x {
+  color: #333 !important;
+}
+
+.ant-modal-close:hover .ant-modal-close-x {
+  color: #ff4d4f !important;
+}
+
+/* Modal body text */
+.ant-modal-body {
+  color: #333 !important;
+}
+
+/* Input Fields inside Modal */
+.ant-input {
+  background-color: #fff !important;
+  color: #333 !important;
+  border: 1px solid #ccc !important;
+}
+
+.ant-input::placeholder {
+  color: #999 !important;
+}
+
+.ant-input:focus {
+  box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2) !important;
+}
